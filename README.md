@@ -1,4 +1,5 @@
-==ShinyCar==
+ShinyCar
+=================
 
 * The name has absolutely nothing to do with what it does.
 * It is  a small library for the HTML5 Storage API
