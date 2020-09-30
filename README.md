@@ -6,3 +6,6 @@ ShinyCar
 * You can set objects as keys and values
 * And, you can either use the ShinyCar object, or, add function to the Storage API itself.
 
+Thanks for your interest in my project.
+
+
